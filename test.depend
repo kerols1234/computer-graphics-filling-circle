@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620690489 source:c:\users\kerols\onedrive\desktop\test\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
